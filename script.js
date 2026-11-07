@@ -13,5 +13,3 @@
 document.addEventListener('DOMContentLoaded', function () {
     console.log('DevLab — página carregada com sucesso!');
 });
-
-// Commit de teste da Parte 9 (será revertido)
